@@ -1,0 +1,18 @@
+PODS:
+  - SSZipArchive (0.4.0)
+  - XlsxReaderWriter (1.0.11):
+    - SSZipArchive (~> 0.4)
+    - XMLDictionary (~> 1.4)
+  - XMLDictionary (1.4)
+
+DEPENDENCIES:
+  - XlsxReaderWriter (~> 1.0.11)
+
+SPEC CHECKSUMS:
+  SSZipArchive: d3d66fc0e3fb6ac0f723d95481aae71aae916cc3
+  XlsxReaderWriter: 7e4c5c9fb7c4e78e4edc89fa11f50c086540277c
+  XMLDictionary: f9f51601ba76678b594ab485f2b00ec1fed23724
+
+PODFILE CHECKSUM: b7ffae536dc9de8f50e33464f72a76cc05fb9f32
+
+COCOAPODS: 1.0.1
